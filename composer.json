@@ -1,0 +1,14 @@
+{
+  "name": "baruchyan/bitrix-exchange",
+  "description": "Bitrix exchange package",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Baruchyan Georgy",
+      "email": "g.baruchyan@gmail.com"
+    }
+  ],
+  "autoload": {
+    "classmap": ["src"]
+  }
+}
